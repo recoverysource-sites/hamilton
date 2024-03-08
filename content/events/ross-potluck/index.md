@@ -11,4 +11,4 @@ menu: events
 
 **Where:** [Ross New Beginnings](/meetings/new-beginnings/)
 
-- [Download Flyer](/events/ross-potluck/flyer.webp)
+![Flyer](/events/ross-potluck/flyer.webp)
