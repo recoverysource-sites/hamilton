@@ -1,0 +1,53 @@
+baseURL: https://aa56-12.sobersupport.group/
+title: Districts 12 and 13 of AA
+
+languageCode: en-us
+theme: [aamod, mainroad]
+sectionPagesMenu: main
+paginate: 100
+buildFuture: true
+
+Params:
+  description: Hamilton, Fairfield, Oxford and surounding areas near Cincinnati, OH
+  source: https://github.com/recoverysource-sites/hamilton/tree/master
+  #mapapikey: <https://developers.google.com/maps/documentation/embed/get-api-key>
+  mapapikey: "AIzaSyA0zujVEN5nzVoZDI7G-Lo3GTwoLBckZGw"
+  copyright: Area 56 Districts 12 and 13 of AA
+  phone: 1-513-351-0422
+  logo:
+    image: img/AAlogo.webp
+    title: Districts 12 and 13 of AA
+    subtitle: Serving Hamilton, Fairfield, Oxford and Surounding Areas
+  toc: true
+  mainSections: [home, meetings, about, events]
+  sidebar:
+    single: right
+    home: right
+    widgets: [resources, eventsidemenu, aasites]
+  widgets:
+
+    resources:
+      cached: true
+      links:
+      - title: Meeting Schedule
+        url: /meeting-schedule.pdf
+      - title: Big Book Online
+        url: https://www.aa.org/bigbookonline/
+
+    aasites:
+      cached: true
+      links:
+      - title: A.A. Area 56 (Southwest Ohio)
+        url: https://aa56.sober.page/
+      - title: A.A. Cincinnati Intergroup
+        url: https://aacincinnati.org/
+      - title: A.A. World Services
+        url: https://www.aa.org/
+      - title: A.A. Grapevine
+        url: http://www.aagrapevine.org/
+
+markup:
+  goldmark:
+    renderer:
+      # Permit raw HTML in content
+      unsafe: true

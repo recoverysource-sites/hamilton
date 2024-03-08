@@ -1,0 +1,292 @@
+the-12:
+  name: The 12
+  time:
+    Friday: ['12:00']
+    Monday: ['12:00', '20:00']
+    Saturday: ['19:00', '19:00']
+    Sunday: ['10:30']
+    Thursday: ['12:00', '19:30']
+    Tuesday: ['12:00', '19:30']
+    Wednesday: ['12:00', '19:00']
+  place: The 1213 Club
+  address: 427 South 2nd St, Hamilton, OH, 45011
+  latitude: 39.3960752716258
+  longitude: -84.56401251598561
+  note: Breakfast Meeting every Sunday at 10:30 AM
+  type: [EN, O]
+
+big-book:
+  name: Big Book
+  time:
+    Saturday: ['17:00']
+    Tuesday: ['18:00']
+  place: United Methodist Church
+  address: S. 2nd and Ludlow, Hamilton, OH, 45011
+  latitude: 39.39733430732039
+  longitude: -84.56256242461562
+  type: [EN, B]
+
+college-corner:
+  name: College Corner Group
+  time:
+    Thursday: ['20:00']
+  place: Presbyterian Church Annex
+  address: 112 State Line Road, College Corner, OH, 45003
+  latitude: 39.569942331000966
+  longitude: -84.81489624666942
+  type: [EN, C]
+
+darrtown-group:
+  name: Darrtown Group
+  time:
+    Wednesday: ['19:00']
+  place: St. Matthews Church
+  address: 4411 St. Route 177, Darrtown, OH, 45056
+  latitude: 39.63360622914702
+  longitude: -84.77170268506275
+  type: [EN, O, X]
+
+fairfield-breakfast:
+  name: Fairfield Breakfast Group
+  time:
+    Sunday: ['9:00']
+  place: Tri County Center
+  address: 2031 E Kemper, Cincinnati, OH, 45241
+  latitude: 39.284633601259564
+  longitude: -84.43972423133363
+  type: [EN, O]
+
+fairfield-sunday-night:
+  name: Fairfield Sunday Night Group
+  time:
+    Sunday: ['20:00']
+  place: Covenant Chuch
+  address: 2860 Mack Road, Fairfield, OH, 45014
+  latitude: 39.311198477036285
+  longitude: -84.52446597366045
+  type: [EN, C, X]
+
+finding-liberty:
+  name: Finding Liberty
+  time:
+    Wednesday: ['19:00']
+  place: Redeemer Church
+  address: 3431 Hamilton Middletown Road, Hamilton, OH, 45011
+  latitude: 39.40883165058905
+  longitude: -84.49887513132973
+  note: Rt 4; In front of Butler Tech
+  type: [EN, O, B]
+
+fort-hamilton:
+  name: Fort Hamilton Home Group
+  time:
+    Friday: ['19:00']
+  place: Open Arms Community Church
+  address: 1068 Stahlheber Road, Hamilton, OH, 45013
+  latitude: 39.421267253294324
+  longitude: -84.59917405692177
+  type: [EN, C, X]
+
+harrison-group:
+  name: Harrison Group
+  place: First Presbyterian Church
+  time:
+    Tuesday: ['19:30']
+  address: 115 S. Vine, Harrison, OH, 45030
+  latitude: 39.26136245972378
+  longitude: -84.81634425862306
+  note: at The B' Way
+  type: [EN, C]
+
+harrison-high-noon:
+  name: Harrison High Noon Group
+  time:
+    Thursday: ['12:00']
+  place: VFW
+  address: 9160 Lawrenceburg Rd., Harrison, OH, 45030
+  latitude: 39.24708075430262
+  longitude: -84.81976661784316
+  type: [EN, C]
+
+higher-power-meeting:
+  name: Higher Power Meeting
+  time:
+    Tuesday: ['19:00']
+  place: Hamilton Christian Center
+  address: 1940 Millville Ave, Hamilton, OH, 45013
+  latitude: 39.40702378739287
+  longitude: -84.62596496834524
+  type: [EN, O]
+
+hilarious-life:
+  name: Hilarious Life
+  time:
+    Friday: ['20:35']
+  place: Trinity Episcopal Church
+  address: 6th & Butler Sts., Hamilton, OH, 45011
+  latitude: 39.3996484827766
+  longitude: -84.55567459641458
+  type: [EN, O]
+
+hope-is-found-here:
+  name: Hope is Found Here
+  time:
+    Monday: ['18:00']
+  place: Queen of Peace Church
+  address: 2550 Millville Ave., Hamilton, OH, 45013
+  latitude: 39.394012224183996
+  longitude: -84.64427162947719
+  type: [EN, O]
+
+liberty-meeting:
+  name: Liberty Meeting
+  time:
+    Sunday: ['20:15']
+  place: Faith Church
+  address: 6558 Liberty Fairfield Rd, Liberty Township, OH, 45011
+  latitude: 39.39012512569878
+  longitude: -84.47651767129543
+  note: Corner of Liberty-Fairfield Rd. and Princeton Pike
+  type: [EN]
+
+lindenwald:
+  name: Lindenwald Monday Big Book Discussion
+  time:
+    Monday: ['18:30']
+  place: Lindenwald Methodist Church
+  address: 3501 Pleasant Avenue, Hamilton, OH, 45015
+  latitude: 39.36182471743114
+  longitude: -84.55872823133123
+  type: [EN, O, B]
+
+mens-meeting:
+  name: Men's Meeting
+  time:
+    Thursday: ['19:30']
+  place: The Fringe Church Men
+  address: 32 N 7th Street, Hamilton, OH, 45011
+  latitude: 39.39829402530995
+  longitude: -84.55403847551085
+  type: [EN, C, M]
+
+into-action:
+  name: Miami Mon Night Into Action Group
+  note: formerly United Campus Ministries
+  time:
+    Monday: ['20:00']
+  place: Campus Ministry Center
+  address: 16 South Campus, Oxford, OH, 45056
+  latitude: 39.50986204616985
+  longitude: -84.73952193797784
+  type: [EN, O, X]
+
+miamitown-discussion:
+  name: Miamitown Discussion Group
+  time:
+    Wednesday: ['19:30']
+  place: First Baptist Church
+  address: 5830 St.Rt. 128, Miamitown, OH, 45002
+  latitude: 39.20409942721661
+  longitude: -84.72973365313197
+  type: [EN, C, X]
+
+come-as-you-are:
+  name: Noon Come As You Are
+  time:
+    Saturday: ['12:00']
+  place: The Fringe Church
+  address: 32 N 7th Street, Hamilton, OH, 45011
+  latitude: 39.39826123636823
+  longitude: -84.55397474786434
+  type: [EN, O]
+
+oaklawn-bb:
+  name: Oaklawn BB
+  time:
+    Monday: ['19:30']
+  place: Covenant Chuch
+  address: 2860 Mack Road, Fairfield, OH, 45014
+  latitude: 39.31117971097733
+  longitude: -84.52447808018769
+  type: [EN, C, B]
+
+new-beginnings:
+  name: Ross New Beginnings
+  time:
+    Friday: ['20:00']
+  place: Covenant Chuch
+  address: 2860 Mack Road, Fairfield, OH, 45014
+  latitude: 39.31117971097733
+  longitude: -84.52447808018769
+  type: [EN, C, X]
+
+serenity-sunday:
+  name: Serenity Sunday Group
+  time:
+    Sunday: ['19:30']
+  place: LCNB National Bank 2nd Floor
+  address: 30 West Park Place, Oxford, OH, 45056
+  latitude: 39.51117218015065
+  longitude: -84.74268547365445
+  type: [EN, C]
+
+so-your-ass-is-on-fire:
+  name: So Your Ass Is On Fire
+  time:
+    Wednesday: ['19:00']
+  place: United Methodist Church
+  address: 14 N Poplar, Oxford, OH, 45056
+  latitude: 39.511297355933024
+  longitude: -84.74113613562456
+  type: [EN, O]
+
+staying-surrendered:
+  name: Staying Surrendered
+  time:
+    Monday: ['19:00']
+  place: Foundation Community Church
+  address: 100 Sal Blvd. , Tranton, OH, 45067
+  latitude: 39.48187631797484
+  longitude: -84.45342091598293
+  type: [EN, O]
+
+step-meeting:
+  name: Step Meeting
+  time:
+    Monday: ['19:00']
+  place: Traditions Club
+  address: 1307 Woodlawn, Middletown, OH, 45044
+  latitude: 39.508083259969496
+  longitude: -84.40260200249062
+  type: [EN, C]
+
+tuesday-at-seven:
+  name: Tuesday At Seven
+  time:
+    Tuesday: ['19:00']
+  place: Faith Lutheran Church
+  address: 420 South Campus, Oxford, OH, 45056
+  latitude: 39.50541506676727
+  longitude: -84.73978717853775
+  type: [EN, C, X]
+
+utopia-meeting:
+  name: Utopia Meeting
+  time:
+    Friday: ['19:30']
+  place: Legacy Christian Church
+  address: 301 Park Ave at N Sycamore, Harrison, OH, 45030
+  latitude: 39.263346739720916
+  longitude: -84.81694388015424
+  note: First Floor
+  type: [EN, C, B]
+
+the-12-women:
+  name: Women's Meeting
+  time:
+    Sunday: ['17:00']
+  place: The 12 Women
+  address: 427 South 2nd St, Hamilton, OH, 45011
+  latitude: 39.3960752716258
+  longitude: -84.56401251598561
+  type: [EN, O, W]
