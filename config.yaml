@@ -1,5 +1,5 @@
 baseURL: https://aa56-12.sobersupport.group/
-title: Districts 12 and 13 of AA
+title: Districts 12 and 13
 
 languageCode: en-us
 theme: [aamod, mainroad]
@@ -11,12 +11,12 @@ Params:
   description: Hamilton, Fairfield, Oxford and surounding areas near Cincinnati, OH
   source: https://github.com/recoverysource-sites/hamilton/tree/master
   #mapapikey: <https://developers.google.com/maps/documentation/embed/get-api-key>
-  mapapikey: "AIzaSyA0zujVEN5nzVoZDI7G-Lo3GTwoLBckZGw"
+  mapapikey: "AIzaSyCRWcv_H_r515-jmYQBiMGGzKQXIYIpcD8"
   copyright: Area 56 Districts 12 and 13 of AA
   phone: 1-513-351-0422
   logo:
     image: img/AAlogo.webp
-    title: Districts 12 and 13 of AA
+    title: Area 56 Districts 12 and 13 of AA
     subtitle: Serving Hamilton, Fairfield, Oxford and Surounding Areas
   toc: true
   mainSections: [home, meetings, about, events]
