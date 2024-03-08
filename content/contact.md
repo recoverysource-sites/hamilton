@@ -1,6 +1,5 @@
 ---
 title: Contact Us
-draft: true
 menu:
   main:
     weight: 30
