@@ -150,7 +150,7 @@ liberty-meeting:
   type: [EN]
 
 lindenwald:
-  name: Lindenwald Monday Big Book Discussion
+  name: Lindenwald Big Book
   time:
     Monday: ['18:30']
   place: Lindenwald Methodist Church
@@ -170,7 +170,7 @@ mens-meeting:
   type: [EN, C, M]
 
 into-action:
-  name: Miami Mon Night Into Action Group
+  name: Into Action in Miami
   note: formerly United Campus Ministries
   time:
     Monday: ['20:00']
