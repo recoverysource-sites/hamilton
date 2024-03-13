@@ -2,7 +2,7 @@
 # Sample configuration used for exampleSite (aamod-demo.recoverysource.io)
 # Documentation: https://recoverysource.io/aamod/prebuild.html
 ##
-baseURL: https://aa56-12.sobersupport.group/
+baseURL: https://aadistrict12and13.org/
 
 # List of content to build
 #builders: [stubs, pdf]
@@ -48,7 +48,7 @@ pdf-blurbs:
     {\7pt\textbf{Al-Anon Information:} al-anon.org}
   # Links to additional resources on back of folded booklet
   resources: |
-    {\7pt\textbf{Hamilton Area:} aa56-12.sober.page/meeting-times}\\
+    {\7pt\textbf{Hamilton Area:} aadistrict12and13.org/meeting-times}\\
     {\7pt\textbf{Southwest Ohio:} aaarea56.org}
   # Informational box on bottom-right of back (second) page
   details: |
