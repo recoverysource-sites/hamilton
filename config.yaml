@@ -11,7 +11,7 @@ Params:
   description: Hamilton, Fairfield, Oxford and surounding areas near Cincinnati, OH
   source: https://github.com/recoverysource-sites/hamilton/tree/master
   #mapapikey: <https://developers.google.com/maps/documentation/embed/get-api-key>
-  mapapikey: "AIzaSyCRWcv_H_r515-jmYQBiMGGzKQXIYIpcD8"
+  mapapikey: "AIzaSyDG7nvI5MSB2eLt8FhSstbRT1khTbhzr6M"
   copyright: Area 56 Districts 12 and 13 of AA
   phone: 1-513-351-0422
   logo:
