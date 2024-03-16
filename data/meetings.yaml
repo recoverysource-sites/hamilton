@@ -1,4 +1,4 @@
-the-12:
+Sunday Morning Breakfast Meeting:
   name: The 12
   time:
     Friday: ['12:00']
@@ -123,7 +123,7 @@ hilarious-life:
   time:
     Friday: ['20:35']
   place: Trinity Episcopal Church
-  address: 6th & Butler Sts., Hamilton, OH, 45011
+  address: 115 N 6th St., Hamilton, OH, 45011
   latitude: 39.3996484827766
   longitude: -84.55567459641458
   type: [EN, O]
