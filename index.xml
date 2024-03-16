@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Districts 12 and 13</title><link>https://aadistrict12and13.org/</link><description>Recent content in Home on Districts 12 and 13</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2030 00:00:00 +0000</lastBuildDate><atom:link href="https://aadistrict12and13.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Sunday Breakfast Meeting</title><link>https://aadistrict12and13.org/events/sunday-breakfast/</link><pubDate>Tue, 01 Jan 2030 00:00:00 +0000</pubDate><guid>https://aadistrict12and13.org/events/sunday-breakfast/</guid><description>&lt;p>&lt;strong>When:&lt;/strong> Every Sunday&lt;/p></description></item><item><title>Ross New Beginnings Potluck</title><link>https://aadistrict12and13.org/events/ross-potluck/</link><pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate><guid>https://aadistrict12and13.org/events/ross-potluck/</guid><description>&lt;p>&lt;strong>When:&lt;/strong> Friday, March 22, 2024&lt;/p></description></item><item><title/><link>https://aadistrict12and13.org/meeting-guide.json</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aadistrict12and13.org/meeting-guide.json</guid><description>[
  {
- "address": "427 South 2nd St",
+ "address": "S. 2nd and Ludlow",
  "approximate": false,
  "city": "Hamilton",
  "country": "US",
- "day": 5,
- "location": "The 1213 Club",
- "name": "The 12",
- "notes": "Breakfast Meeting every Sunday at 10:30 AM",
- "postal_code": "45011",</description></item><item><title>Big Book</title><link>https://aadistrict12and13.org/meetings/big-book/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aadistrict12and13.org/meetings/big-book/</guid><description> Building: United Methodist Church
+ "day": 6,
+ "location": "United Methodist Church",
+ "name": "Big Book",
+ "notes": null,
+ "postal_code": "45011",
+ "region": "Districts 12 and 13"</description></item><item><title>Big Book</title><link>https://aadistrict12and13.org/meetings/big-book/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aadistrict12and13.org/meetings/big-book/</guid><description> Building: United Methodist Church
 Address: S. 2nd and Ludlow, Hamilton, OH, 45011
 Meeting Times: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Saturday: 5:00 PM &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Tuesday: 6:00 PM Meeting Type: English Big Book</description></item><item><title>College Corner Group</title><link>https://aadistrict12and13.org/meetings/college-corner/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aadistrict12and13.org/meetings/college-corner/</guid><description> Building: Presbyterian Church Annex
 Address: 112 State Line Road, College Corner, OH, 45003
@@ -63,7 +64,7 @@ Meeting Times: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Wednesday: 7:00 PM Meetin
 Address: 100 Sal Blvd. , Tranton, OH, 45067
 Meeting Times: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Monday: 7:00 PM Meeting Type: English Open</description></item><item><title>Step Meeting</title><link>https://aadistrict12and13.org/meetings/step-meeting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aadistrict12and13.org/meetings/step-meeting/</guid><description> Building: Traditions Club
 Address: 1307 Woodlawn, Middletown, OH, 45044
-Meeting Times: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Monday: 7:00 PM Meeting Type: English Closed</description></item><item><title>The 12</title><link>https://aadistrict12and13.org/meetings/-the-12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aadistrict12and13.org/meetings/-the-12/</guid><description>Building: The 1213 Club
+Meeting Times: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Monday: 7:00 PM Meeting Type: English Closed</description></item><item><title>The 12</title><link>https://aadistrict12and13.org/meetings/the-12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aadistrict12and13.org/meetings/the-12/</guid><description>Building: The 1213 Club
 Address: 427 South 2nd St, Hamilton, OH, 45011
 Meeting Times: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Friday: 12:00 AM &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Monday: 12:00 AM , 8:00 PM &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Saturday: 7:00 PM , 7:00 PM &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Sunday: 10:30 AM &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Thursday: 12:00 AM , 7:30 PM &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Tuesday: 12:00 AM , 7:30 PM &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Wednesday: 12:00 AM , 7:00 PM Meeting Type: English Open Breakfast Meeting every Sunday at 10:30 AM</description></item><item><title>Tuesday At Seven</title><link>https://aadistrict12and13.org/meetings/tuesday-at-seven/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aadistrict12and13.org/meetings/tuesday-at-seven/</guid><description> Building: Faith Lutheran Church
 Address: 420 South Campus, Oxford, OH, 45056
