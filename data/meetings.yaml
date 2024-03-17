@@ -1,10 +1,21 @@
+sunday-morning-breakfast:
+  name: Sunday Morning Breakfast Meeting
+  time:
+     Sunday: ['10:30']
+  place: The 1213 Club
+  address: 427 South 2nd St, Hamilton, OH, 45011
+  latitude: 39.3960752716258
+  longitude: -84.56401251598561
+  note: Breakfast Meeting every Sunday at 10:30 AM
+  type: [EN, O]
+
+
 the-12:
   name: The 12
   time:
     Friday: ['12:00']
     Monday: ['12:00', '20:00']
     Saturday: ['19:00', '19:00']
-    Sunday: ['10:30']
     Thursday: ['12:00', '19:30']
     Tuesday: ['12:00', '19:30']
     Wednesday: ['12:00', '19:00']
