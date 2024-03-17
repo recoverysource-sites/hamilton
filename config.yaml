@@ -30,7 +30,7 @@ Params:
       cached: true
       links:
       - title: Meeting Schedule
-        url: /meeting-schedule.pdf
+        url: /meetingprint.pdf
       - title: Big Book Online
         url: https://www.aa.org/bigbookonline/
 
