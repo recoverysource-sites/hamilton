@@ -407,12 +407,4 @@ utopia-meeting:
   note: First Floor
   type: [EN, C, B]
 
-the-12-women:
-  name: Women's Meeting
-  time:
-    Sunday: ['17:00']
-  place: The 12 Women
-  address: 427 South 2nd St, Hamilton, OH, 45011
-  latitude: 39.3960752716258
-  longitude: -84.56401251598561
-  type: [EN, O, W]
+
