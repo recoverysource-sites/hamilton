@@ -13,7 +13,7 @@ sunday-morning-breakfast:
 the-12:
   name: The 12
   time:
-    Friday: ['24:00']
+    Friday: ['00:00']
     Monday: ['12:00', '20:00']
     Saturday: ['19:00', '19:00']
     Thursday: ['12:00', '19:30']
