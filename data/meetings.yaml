@@ -2,29 +2,144 @@ sunday-morning-breakfast:
   name: Sunday Morning Breakfast Meeting
   time:
      Sunday: ['10:30']
-  place: The 1213 Club
+  place: The 12
   address: 427 South 2nd St, Hamilton, OH, 45011
   latitude: 39.3960752716258
   longitude: -84.56401251598561
-  note: Breakfast Meeting every Sunday at 10:30 AM
+  note: Breakfast Starts 10:15 AM Donations requested.
   type: [EN, O]
-
 
 the-12:
-  name: The 12
+  name: Life After
   time:
     Friday: ['12:00']
-    Monday: ['12:00', '20:00']
-    Saturday: ['19:00', '19:00']
-    Thursday: ['12:00', '19:30']
-    Tuesday: ['12:00', '19:30']
-    Wednesday: ['12:00', '19:00']
-  place: The 1213 Club
+  place: The 12
   address: 427 South 2nd St, Hamilton, OH, 45011
   latitude: 39.3960752716258
   longitude: -84.56401251598561
-  note: Breakfast Meeting every Sunday at 10:30 AM
+  note: 
   type: [EN, O]
+
+the-12:
+  name:Stick With the Winners
+  time:
+    Monday: ['12:00']
+  place: The 12
+  address: 427 South 2nd St, Hamilton, OH, 45011
+  latitude: 39.3960752716258
+  longitude: -84.56401251598561
+  note: 
+  type: [EN, O]
+ 
+ the-12:
+  name: The Power of 12
+  time:
+      Monday: ['20:00']
+  place: The 12
+  address: 427 South 2nd St, Hamilton, OH, 45011
+  latitude: 39.3960752716258
+  longitude: -84.56401251598561
+  note: Twelve & Twelve Discussion
+  type: [EN, O] 
+
+the-12:
+  name: Womens Meeting
+  time:
+    Sunday: ['17:00']
+  place: The 12
+  address: 427 South 2nd St, Hamilton, OH, 45011
+  latitude: 39.3960752716258
+  longitude: -84.56401251598561
+  note: 
+  type: [EN, O]
+
+the-12:
+  name: Trainwrecks
+  time:
+    Saturday: ['19:00']
+  place: The 12
+  address: 427 South 2nd St, Hamilton, OH, 45011
+  latitude: 39.3960752716258
+  longitude: -84.56401251598561
+  note: 
+  type: [EN, O]
+
+the-12:
+  name: Last Call
+  time:
+    Saturday: ['22:00']
+  place: The 12
+  address: 427 South 2nd St, Hamilton, OH, 45011
+  latitude: 39.3960752716258
+  longitude: -84.56401251598561
+  note: 
+  type: [EN, O]
+
+the-12:
+  name: Easy Does It
+  time:
+    Thursday: ['12:00']
+  place: The 12
+  address: 427 South 2nd St, Hamilton, OH, 45011
+  latitude: 39.3960752716258
+  longitude: -84.56401251598561
+  note: 
+  type: [EN, O]
+
+the-12:
+  name: Love and Tolerance is our Code
+  time:
+    Thursday: ['19:30']
+  place: The 12
+  address: 427 South 2nd St, Hamilton, OH, 45011
+  latitude: 39.3960752716258
+  longitude: -84.56401251598561
+  note: 
+  type: [EN, O]
+
+the-12:
+  name: You are not Alone
+  time:
+    Tuesday: ['12:00']
+  place: The 12
+  address: 427 South 2nd St, Hamilton, OH, 45011
+  latitude: 39.3960752716258
+  longitude: -84.56401251598561
+  note: 
+  type: [EN, O]
+
+the-12:
+  name: Damn Trains Group
+  time:
+    Tuesday: ['19:30']
+  place: The 12
+  address: 427 South 2nd St, Hamilton, OH, 45011
+  latitude: 39.3960752716258
+  longitude: -84.56401251598561
+  note: 
+  type: [EN, O]
+
+the-12:
+  name: Horizon Ahead
+  time:
+    Wednesday: ['12:00']
+  place: The 12
+  address: 427 South 2nd St, Hamilton, OH, 45011
+  latitude: 39.3960752716258
+  longitude: -84.56401251598561
+  note: 
+  type: [EN, O]
+
+the-12:
+  name: Leading the Way
+  time:
+    Wednesday: ['19:00']
+  place: The 12
+  address: 427 South 2nd St, Hamilton, OH, 45011
+  latitude: 39.3960752716258
+  longitude: -84.56401251598561
+  note: 
+  type: [EN, S]
 
 big-book:
   name: Big Book
