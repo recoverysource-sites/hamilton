@@ -21,7 +21,7 @@ life-after:
   type: [EN, O]
 
 stick-with-winner:
-  name:Stick With the Winners
+  name: Stick With the Winners
   time:
     Monday: ['12:00']
   place: The 12
