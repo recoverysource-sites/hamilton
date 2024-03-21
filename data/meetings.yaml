@@ -9,7 +9,7 @@ sunday-morning-breakfast:
   note: Breakfast Starts 10:15 AM Donations requested.
   type: [EN, O]
 
-the-12:
+life-after:
   name: Life After
   time:
     Friday: ['12:00']
@@ -20,7 +20,7 @@ the-12:
   note: 
   type: [EN, O]
 
-the-12:
+stick-with-winner:
   name:Stick With the Winners
   time:
     Monday: ['12:00']
@@ -31,7 +31,7 @@ the-12:
   note: 
   type: [EN, O]
  
- the-12:
+ power-of-twelve:
   name: The Power of 12
   time:
       Monday: ['20:00']
@@ -42,7 +42,7 @@ the-12:
   note: Twelve & Twelve Discussion
   type: [EN, O] 
 
-the-12:
+womens-meeting:
   name: Womens Meeting
   time:
     Sunday: ['17:00']
@@ -53,7 +53,7 @@ the-12:
   note: 
   type: [EN, O]
 
-the-12:
+trainwrecks:
   name: Trainwrecks
   time:
     Saturday: ['19:00']
@@ -64,7 +64,7 @@ the-12:
   note: 
   type: [EN, O]
 
-the-12:
+last-call:
   name: Last Call
   time:
     Saturday: ['22:00']
@@ -75,7 +75,7 @@ the-12:
   note: 
   type: [EN, O]
 
-the-12:
+easy-does-it:
   name: Easy Does It
   time:
     Thursday: ['12:00']
@@ -86,7 +86,7 @@ the-12:
   note: 
   type: [EN, O]
 
-the-12:
+love-and-tolerance:
   name: Love and Tolerance is our Code
   time:
     Thursday: ['19:30']
@@ -97,7 +97,7 @@ the-12:
   note: 
   type: [EN, O]
 
-the-12:
+you-are-not-alone:
   name: You are not Alone
   time:
     Tuesday: ['12:00']
@@ -108,7 +108,7 @@ the-12:
   note: 
   type: [EN, O]
 
-the-12:
+damn-trains:
   name: Damn Trains Group
   time:
     Tuesday: ['19:30']
@@ -119,7 +119,7 @@ the-12:
   note: 
   type: [EN, O]
 
-the-12:
+horizon-ahead:
   name: Horizon Ahead
   time:
     Wednesday: ['12:00']
@@ -130,7 +130,7 @@ the-12:
   note: 
   type: [EN, O]
 
-the-12:
+leading-the-way:
   name: Leading the Way
   time:
     Wednesday: ['19:00']
