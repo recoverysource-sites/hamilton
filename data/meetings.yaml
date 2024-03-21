@@ -31,10 +31,10 @@ stick-with-winner:
   note: 
   type: [EN, O]
  
- power-of-twelve:
+power-of-twelve:
   name: The Power of 12
   time:
-      Monday: ['20:00']
+    Monday: ['20:00']
   place: The 12
   address: 427 South 2nd St, Hamilton, OH, 45011
   latitude: 39.3960752716258
