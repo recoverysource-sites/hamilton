@@ -172,16 +172,6 @@ darrtown-group:
   longitude: -84.77170268506275
   type: [EN, O, X]
 
-fairfield-breakfast:
-  name: Fairfield Breakfast Group
-  time:
-    Sunday: ['9:00']
-  place: Tri County Center
-  address: 2031 E Kemper, Cincinnati, OH, 45241
-  latitude: 39.284633601259564
-  longitude: -84.43972423133363
-  type: [EN, O]
-
 fairfield-sunday-night:
   name: Fairfield Sunday Night Group
   time:
@@ -234,15 +224,16 @@ harrison-high-noon:
   longitude: -84.81976661784316
   type: [EN, C]
 
-higher-power-meeting:
-  name: Higher Power Meeting
+family-after:
+  name: The Family Afterward
   time:
-    Tuesday: ['19:00']
-  place: Hamilton Christian Center
-  address: 1940 Millville Ave, Hamilton, OH, 45013
+    Sunday: ['19:30']
+  place: Lord of Life Lutheran Church
+  address: 6239 Tylersville Rd, West Chester, OH
+  note: Babysitting Avail, Concurent with Alanon, Open Lead 4th Sunday.
   latitude: 39.40702378739287
   longitude: -84.62596496834524
-  type: [EN, O]
+  type: [EN, BA, O, BB, X]
 
 hilarious-life:
   name: Hilarious Life
