@@ -1,20 +1,14 @@
 ---
-title: 2022 Example Event
-draft: true
-date: 2022-11-12
+title: Traditions Workshop
+date: 2024-04-27
 menu: events
 ---
 
-**When:** Saturday, 12 November 2022
+**When:** 27 April 2024
 <!--more-->
 
-**Time:** 9:00 AM to 5:00 PM
+**Time:** 1:30 PM
 
-**Where:** [VeryLocal AA](/meetings/verylocal/)
+**Where:** [The 12](/meetings/the-12/)
 
-This is additional information. The link to the meeting location is pointing to
-``/meeting/verylocal``. Although this page doesn't exist now, ``make`` will
-generate the page using the "``shortname``" from ``data/meetings.yml``.
-
-This example document is a draft, set by ``draft: true`` in the header. That
-will prevent this page from being published.
+![Flyer](/events/traditions-workshop/tradition.workshop427.jpg)
