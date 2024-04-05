@@ -8,12 +8,9 @@ menu:
 We can be contacted via:
 
 - **Phone:** <a href="tel:1-513-351-0422">1-513-351-0422</a>
-- **Meeting:** First Monday of every month @ 6:30PM at [The 12](/meetings/the12/)
-- **Mail:**\
-  The 12\
-  427 South 2nd St.\
-  Hamilton, Ohio 45011
-
+- **Meeting:** First Monday of every month @ 6:00PM at [The 12](/meetings/the12/)
+- **Mail:**  [Wes L.](mailto:wleibrook@gmail.com)
+  
 District Committees
 -------------------
 
@@ -33,4 +30,4 @@ need you may contact [Adam A.](mailto:adamalmanza58@gmail.com).
 
 Meetings are taken into some of the local treatment centers. These are not open
 meetings. If you would like to become incolved with this committee contact
-[John L.](mailto:jwl352017@gmail.com).
+[Tyler H.](mailto:fawkes1392@gmail.com).
