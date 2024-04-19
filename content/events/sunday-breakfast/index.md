@@ -11,4 +11,4 @@ menu: events
 
 **Where:** [The 12](/meetings/the-12/)
 
-![Flyer](/events/sunday-breakfast/flyer4.16.JPEG)
+![Flyer](/events/sunday-breakfast/flyer416.JPEG)
