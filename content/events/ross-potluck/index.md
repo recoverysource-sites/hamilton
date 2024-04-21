@@ -1,6 +1,7 @@
 ---
 title: Ross New Beginnings Potluck
 date: 2024-03-22
+draft: true
 menu: events
 ---
 
