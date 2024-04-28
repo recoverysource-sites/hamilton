@@ -1,6 +1,7 @@
 ---
 title: Traditions Workshop
 date: 2024-04-27
+draft: true
 menu: events
 ---
 
