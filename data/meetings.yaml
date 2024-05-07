@@ -142,15 +142,15 @@ leading-the-way:
   type: [EN, O, D, X, SP]
 
 big-book:
-  name: Big Book
+  name: Big Book Discussion
   time:
-    Saturday: ['17:00']
-    Tuesday: ['18:00']
+    Saturday: ['17:00']    
   place: United Methodist Church
-  address: S. 2nd and Ludlow, Hamilton, OH, 45011
+  address: 14 N Poplar, Oxford, OH, 45056
   latitude: 39.39733430732039
   longitude: -84.56256242461562
-  type: [EN, B]
+  note: Poplar at Church St
+  type: [EN,O, D]
 
 college-corner:
   name: College Corner Group
