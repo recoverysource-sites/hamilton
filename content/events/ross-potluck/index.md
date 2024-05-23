@@ -12,4 +12,4 @@ menu: events
 
 **Where:** (Joyce Park , Shelter # 22)
 
-![Flyer](/events/ross-potluck/ross.jpg)
+![Flyer](/events/ross-potluck/picnic.webp)
