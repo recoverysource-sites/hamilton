@@ -1,12 +1,12 @@
 sunday-morning-breakfast:
   name: Sunday Morning Breakfast Meeting
   time:
-     Sunday: ['10:30']
+     Sunday: ['11:00']
   place: The 12
   address: 427 South 2nd St, Hamilton, OH, 45011
   latitude: 39.3960752716258
   longitude: -84.56401251598561
-  note: Breakfast Starts 10:15 AM Donations requested.
+  note: Breakfast Paused for the Summer. Open Discussion meeting.
   type: [EN, O]
 
 life-after:
