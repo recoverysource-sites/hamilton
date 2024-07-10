@@ -1,13 +1,13 @@
 ---
-title: 2022 Example Event
+title: Camelstock 
 draft: true
-date: 2022-11-12
+date: 2024-07-26
 menu: events
 ---
 
-**When:** Saturday, 12 November 2022
+**When:** Friday & Saturday, 26, 27 July 2024
 <!--more-->
 
 **Time:** 9:00 AM to 5:00 PM
 
-**Where:** [VeryLocal AA](/meetings/verylocal/)
+**Where:** 8501 Camden College Corner Rd, College Corner, OH 45003
