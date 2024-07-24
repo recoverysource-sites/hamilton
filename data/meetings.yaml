@@ -311,10 +311,10 @@ come-as-you-are:
   name: Noon Come As You Are
   time:
     Saturday: ['12:00']
-  place: The Fringe Church
-  address: 32 N 7th Street, Hamilton, OH, 45011
-  latitude: 39.39826123636823
-  longitude: -84.55397474786434
+  place: The 12
+  address: 427 South 2nd St, Hamilton, OH, 45011
+  latitude: 39.3960752716258
+  longitude: -84.56401251598561
   type: [EN, O]
 
 oaklawn-bb:
