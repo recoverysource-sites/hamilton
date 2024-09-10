@@ -1,6 +1,6 @@
 ---
 title: Camelstock 
-
+draft: true
 date: 2024-07-26
 menu: events
 ---
