@@ -10,7 +10,7 @@ We can be contacted via:
 - **Phone:** <a href="tel:1-513-351-0422">1-513-351-0422</a>
 - **Meeting:** First Monday of every month @ 6:00PM at [The 12](/meetings/the12/)
 - **Mail:**  [Wes L.](mailto:wleibrook@gmail.com)
-- **DCM Contact District 12:** [Oji E 727-565-6316]
+- **DCM Contact District 12:** [Dwayne S 513-320-9121]
 - **DCM Contact District 13:** [Josh P 513-953-5618]
   
 District Committees
