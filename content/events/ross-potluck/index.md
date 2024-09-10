@@ -1,7 +1,7 @@
 ---
 title: District Picnic
 date: 2024-06-08
-
+draft: true
 menu: events
 ---
 
