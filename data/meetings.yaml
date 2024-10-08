@@ -280,8 +280,8 @@ mens-meeting:
   name: Men's Meeting
   time:
     Thursday: ['19:30']
-  place: The Fringe Church Men
-  address: 32 N 7th Street, Hamilton, OH, 45011
+  place: Lord of Life Lutheran Church
+  address: 6239 Tylersville Rd, West Chester, OH
   latitude: 39.39829402530995
   longitude: -84.55403847551085
   type: [EN, C, M]
