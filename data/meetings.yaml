@@ -149,7 +149,7 @@ big-book:
   address: 14 N Poplar, Oxford, OH, 45056
   latitude: 39.39733430732039
   longitude: -84.56256242461562
-  note: Poplar at Church St
+  note: Poplar at Church St. Take Fire Escape to the second floor to enter.
   type: [EN,O, D]
 
 college-corner:
@@ -255,16 +255,6 @@ hope-is-found-here:
   longitude: -84.64427162947719
   type: [EN, O]
 
-liberty-meeting:
-  name: Liberty Meeting
-  time:
-    Sunday: ['20:15']
-  place: Faith Church
-  address: 6558 Liberty Fairfield Rd, Liberty Township, OH, 45011
-  latitude: 39.39012512569878
-  longitude: -84.47651767129543
-  note: Corner of Liberty-Fairfield Rd. and Princeton Pike
-  type: [EN]
 
 lindenwald:
   name: Lindenwald Big Book
