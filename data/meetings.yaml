@@ -65,7 +65,7 @@ trainwrecks:
   type: [EN, O]
 
 last-call:
-  name: Last Call
+  name: Last Call (Closed until further notice)
   time:
     Saturday: ['22:00']
   place: The 12
