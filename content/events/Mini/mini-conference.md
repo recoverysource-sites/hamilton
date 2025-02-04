@@ -1,4 +1,3 @@
-
 ---
 title: Southwest Ohio 42nd Annual Mini-Conference
 draft: false
@@ -11,4 +10,7 @@ menu: events
 
 **Time:** 9:00 AM to 5:00 PM
 
-**Where:** Hope Hotel & Conference Center 1013 Chidlaw Rd. Bldg 823 WPAFB Faircorn Ohio 45433
+**Where:** Hope Hotel & Conference Center 
+1013 Chidlaw Rd. Bldg 823 
+WPAFB 
+Faircorn Ohio 45433
