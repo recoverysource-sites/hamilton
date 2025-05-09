@@ -380,7 +380,7 @@ tuesday-at-seven:
 utopia-meeting:
   name: Utopia Meeting
   time:
-    Friday: ['19:30']
+    Friday: ['19:00']
   place: Legacy Christian Church
   address: 301 Park Ave at N Sycamore, Harrison, OH, 45030
   latitude: 39.263346739720916
