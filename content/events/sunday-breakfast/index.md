@@ -1,7 +1,7 @@
 ---
 title: Sunday Breakfast Meeting
 date: 2030-01-01
-draft: 
+draft:true 
 menu: events
 ---
 
