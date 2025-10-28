@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Districts 12 and 13</title><link>https://aadistrict12and13.org/</link><description>Recent content in Home on Districts 12 and 13</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 14 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://aadistrict12and13.org/index.xml" rel="self" type="application/rss+xml"/><item><title>42nd Annual Mini-Conference</title><link>https://aadistrict12and13.org/events/mini/mini-conference/</link><pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate><guid>https://aadistrict12and13.org/events/mini/mini-conference/</guid><description>&lt;p>&lt;strong>When:&lt;/strong> Friday &amp;amp; Saturday, 14, 15, 16 March 2025&lt;/p></description></item><item><title/><link>https://aadistrict12and13.org/meeting-guide.json</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aadistrict12and13.org/meeting-guide.json</guid><description>[
  {
- "address": "14 N Poplar",
+ "address": "427 South 2nd St",
  "approximate": false,
- "city": "Oxford",
+ "city": "Hamilton",
  "country": "US",
- "day": 6,
- "location": "United Methodist Church",
- "name": "Big Book Discussion",
- "notes": "Poplar at Church St. Take Fire Escape to the second floor to enter.",</description></item><item><title>Big Book Discussion</title><link>https://aadistrict12and13.org/meetings/big-book/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aadistrict12and13.org/meetings/big-book/</guid><description>Building: United Methodist Church
+ "day": 0,
+ "location": "The 12",
+ "name": "Fourth Demention",
+ "notes": null,
+ "postal_code": "45011",
+ "region": "Districts 12 and 13"</description></item><item><title>Big Book Discussion</title><link>https://aadistrict12and13.org/meetings/big-book/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aadistrict12and13.org/meetings/big-book/</guid><description>Building: United Methodist Church
 Address: 14 N Poplar, Oxford, OH, 45056
 Meeting Times: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Saturday: 5:00 PM Meeting Type: English Open Discussion Poplar at Church St. Take Fire Escape to the second floor to enter.</description></item><item><title>College Corner Group</title><link>https://aadistrict12and13.org/meetings/college-corner/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aadistrict12and13.org/meetings/college-corner/</guid><description> Building: Presbyterian Church Annex
 Address: 112 State Line Road, College Corner, OH, 45003
@@ -27,7 +29,9 @@ Meeting Times: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Sunday: 8:00 PM Meeting T
 Address: 3431 Hamilton Middletown Road, Hamilton, OH, 45011
 Meeting Times: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Wednesday: 7:00 PM Meeting Type: English Open Big Book Rt 4; In front of Butler Tech</description></item><item><title>Fort Hamilton Home Group</title><link>https://aadistrict12and13.org/meetings/fort-hamilton/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aadistrict12and13.org/meetings/fort-hamilton/</guid><description> Building: Open Arms Community Church
 Address: 1068 Stahlheber Road, Hamilton, OH, 45013
-Meeting Times: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Friday: 7:00 PM Meeting Type: English Closed Wheelchair Access</description></item><item><title>Harrison Group</title><link>https://aadistrict12and13.org/meetings/harrison-group/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aadistrict12and13.org/meetings/harrison-group/</guid><description>Building: First Presbyterian Church
+Meeting Times: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Friday: 7:00 PM Meeting Type: English Closed Wheelchair Access</description></item><item><title>Fourth Demention</title><link>https://aadistrict12and13.org/meetings/4-d/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aadistrict12and13.org/meetings/4-d/</guid><description> Building: The 12
+Address: 427 South 2nd St, Hamilton, OH, 45011
+Meeting Times: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Sunday: 7:00 PM Meeting Type: Big Book Open</description></item><item><title>Harrison Group</title><link>https://aadistrict12and13.org/meetings/harrison-group/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aadistrict12and13.org/meetings/harrison-group/</guid><description>Building: First Presbyterian Church
 Address: 115 S. Vine, Harrison, OH, 45030
 Meeting Times: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Tuesday: 7:30 PM Meeting Type: English Closed at The B&amp;#39; Way</description></item><item><title>Harrison High Noon Group</title><link>https://aadistrict12and13.org/meetings/harrison-high-noon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aadistrict12and13.org/meetings/harrison-high-noon/</guid><description> Building: VFW
 Address: 9160 Lawrenceburg Rd., Harrison, OH, 45030
@@ -59,8 +63,8 @@ Meeting Times: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Saturday: 12:00 PM Meetin
 Address: 2860 Mack Road, Fairfield, OH, 45014
 Meeting Times: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Monday: 7:30 PM Meeting Type: English Closed Big Book</description></item><item><title>Ross New Beginnings</title><link>https://aadistrict12and13.org/meetings/new-beginnings/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aadistrict12and13.org/meetings/new-beginnings/</guid><description> Building: Covenant Chuch
 Address: 2860 Mack Road, Fairfield, OH, 45014
-Meeting Times: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Friday: 8:00 PM Meeting Type: English Closed Wheelchair Access</description></item><item><title>Serenity Sunday Group</title><link>https://aadistrict12and13.org/meetings/serenity-sunday/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aadistrict12and13.org/meetings/serenity-sunday/</guid><description> Building: LCNB National Bank 2nd Floor
-Address: 30 West Park Place, Oxford, OH, 45056
+Meeting Times: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Friday: 8:00 PM Meeting Type: English Closed Wheelchair Access</description></item><item><title>Serenity Sunday Group</title><link>https://aadistrict12and13.org/meetings/serenity-sunday/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aadistrict12and13.org/meetings/serenity-sunday/</guid><description> Building: Oxford Presbyterian Church
+Address: 101 North Main St, Oxford, OH, 45056
 Meeting Times: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Sunday: 7:30 PM Meeting Type: English Closed</description></item><item><title>So Your Ass Is On Fire</title><link>https://aadistrict12and13.org/meetings/so-your-ass-is-on-fire/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aadistrict12and13.org/meetings/so-your-ass-is-on-fire/</guid><description> Building: United Methodist Church
 Address: 14 N Poplar, Oxford, OH, 45056
 Meeting Times: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Wednesday: 7:00 PM Meeting Type: English Open</description></item><item><title>Staying Surrendered</title><link>https://aadistrict12and13.org/meetings/staying-surrendered/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aadistrict12and13.org/meetings/staying-surrendered/</guid><description> Building: Foundation Community Church
