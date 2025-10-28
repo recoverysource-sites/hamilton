@@ -331,8 +331,8 @@ serenity-sunday:
   name: Serenity Sunday Group
   time:
     Sunday: ['19:30']
-  place: LCNB National Bank 2nd Floor
-  address: 30 West Park Place, Oxford, OH, 45056
+  place: Oxford Presbyterian Church
+  address: 101 North Main St, Oxford, OH, 45056
   latitude: 39.51117218015065
   longitude: -84.74268547365445
   type: [EN, C]
@@ -388,4 +388,13 @@ utopia-meeting:
   note: First Floor
   type: [EN, C, B]
 
-
+4-d:
+  name: Fourth Demention
+  time:
+    Sunday: ['19:00']
+  place: The 12
+  address: 427 South 2nd St, Hamilton, OH, 45011
+  latitude: 39.3960752716258
+  longitude: -84.56401251598561
+  note: 
+  type: [B, O]
