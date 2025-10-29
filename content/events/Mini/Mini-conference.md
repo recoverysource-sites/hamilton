@@ -1,6 +1,6 @@
 ---
 title: 42nd Annual Mini-Conference
-draft: false
+draft: true
 date: 2025-03-14 
 menu: events
 ---
