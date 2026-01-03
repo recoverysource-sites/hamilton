@@ -9,6 +9,16 @@ sunday-morning-serenity:
   note: Big Book, Lead last Sunday of the month
   type: [EN, O, B]
 
+4-d:
+  name: Fourth Dimension
+  time:
+    Sunday: ['19:00']
+  place: The 12
+  address: 427 South 2nd St, Hamilton, OH, 45011
+  latitude: 39.3960752716258
+  longitude: -84.56401251598561
+  type: [B, O]
+
 life-after:
   name: Life After
   time:
@@ -387,16 +397,6 @@ utopia-meeting:
   longitude: -84.81694388015424
   note: First Floor
   type: [EN, C, B]
-
-4-d:
-  name: Fourth Dimension
-  time:
-    Sunday: ['19:00']
-  place: The 12
-  address: 427 South 2nd St, Hamilton, OH, 45011
-  latitude: 39.3960752716258
-  longitude: -84.56401251598561
-  type: [B, O]
 
   trinity-Community:
   name: Trinity Community Meeting
