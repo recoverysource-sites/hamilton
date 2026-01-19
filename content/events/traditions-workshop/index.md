@@ -1,18 +1,18 @@
 ---
-title: Traditions Workshop
-date: 2024-04-27
-draft: true
+title: 4th Step Workshop
+date: 2026-03-07
+draft: 
 menu: events
 ---
 
-**When:** 27 April 2024
+**When:** 7 March 2026
 <!--more-->
-**FREE Lunch**: We will be providing Hamburgers and Hot Dogs for a lunch beginning at 1:30 PM 
+**FREE Lunch**: We will be providing snacks and beverages beginning at 2:00 PM 
 
-**About:** Join us as we present the 12 Traditions in real world applications. 
+**About:** Join us as we presenters proveide their experience on the 4th Step Inventory in real world applications. 
 
-**Time:** 1:30 PM
+**Time:** 2:00 PM
 
 **Where:** [The 12](/meetings/the-12/)
 
-![Flyer](/events/traditions-workshop/tradition.workshop427.jpg)
+![Flyer](/events/traditions-workshop/Workshop2026.jpg)
