@@ -413,7 +413,7 @@ utopia-meeting:
   name: James Club
   time:
     Tuesday: ['19:00']
-    place: Living Hope Church
-    address: 626 Ridgelawn Ave, Hamilton, OH 45013
-    note: Enter Gray Av side door near front of bldg
-    type: [EN, O, D, SP]
+  place: Living Hope Church
+  address: 626 Ridgelawn Ave, Hamilton, OH 45013
+  note: Enter Gray Av side door near front of bldg
+  type: [EN, O, D, SP]
