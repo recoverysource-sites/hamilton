@@ -407,3 +407,13 @@ utopia-meeting:
   latitude: 39.51117218015065
   longitude: -84.74268547365445
   type: [EN, C]
+
+  
+  james-group:
+  name: James Club
+  time:
+    Tuesday: ['19:00']
+    place: Living Hope Church
+    address: 626 Ridgelawn Ave, Hamilton, OH 45013
+    note: Enter from 
+    type: [EN, O, D, SP]
