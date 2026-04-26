@@ -159,7 +159,7 @@ big-book:
   address: 14 N Poplar, Oxford, OH, 45056
   latitude: 39.39733430732039
   longitude: -84.56256242461562
-  note: Poplar at Church St. Take Fire Escape to the second floor to enter.
+  note: park in back, use the back door on the ground level.Turn Right thru glass door, take inside stairs to second floor.
   type: [EN,O, D]
 
 college-corner:
@@ -356,6 +356,7 @@ so-your-ass-is-on-fire:
   latitude: 39.511297355933024
   longitude: -84.74113613562456
   type: [EN, O]
+  note: park in back, use the back door on the ground level.Turn Right thru glass door, take inside stairs to second floor.
 
 staying-surrendered:
   name: Staying Surrendered
