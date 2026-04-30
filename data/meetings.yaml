@@ -75,15 +75,15 @@ trainwrecks:
   type: [EN, O]
 
 last-call:
-  name: Last Call (Closed until further notice)
+  name: Second Chances Candlelight 
   time:
-    Saturday: ['22:00']
+    Saturday: ['21:00']
   place: The 12
   address: 427 South 2nd St, Hamilton, OH, 45011
   latitude: 39.3960752716258
   longitude: -84.56401251598561
   note: 
-  type: [EN, O]
+  type: [EN,D,O]
 
 easy-does-it:
   name: Easy Does It
@@ -418,3 +418,14 @@ utopia-meeting:
   address: 626 Ridgelawn Ave, Hamilton, OH 45013
   note: Enter Gray Av side door near front of bldg
   type: [EN, O, D, SP]
+
+
+  Here-Steps:
+  name: Here are the Steps
+  time:
+    Wednesday: ['19:30']
+  place: Covenant Chuch
+  address: 2860 Mack Road, Fairfield, OH, 45014
+  latitude: 39.31117971097733
+  longitude: -84.52447808018769
+  type: [SP]
