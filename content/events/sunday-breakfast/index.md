@@ -1,15 +1,15 @@
 ---
-title: Sunday Breakfast Meeting
-date: 2030-01-01
+title: Darrtown Anniversary
+date: 2026-05-20
 draft: true 
 menu: events
 ---
 
-**When:** Every Sunday
+**When:** May 20 2026
 <!--more-->
 
-**Time:** 10:00 AM
+**Time:** 6:00 PM
 
-**Where:** [The 12](/meetings/the-12/)
+**Where:** [St MAthews Church 4411 Hamilton Richmond Rd 45013)
 
-![Flyer](/events/sunday-breakfast/Breakfast.webp)
+![Flyer](Darrtown2026.webp)
