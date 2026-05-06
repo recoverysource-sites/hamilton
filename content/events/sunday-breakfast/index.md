@@ -1,7 +1,7 @@
 ---
 title: Darrtown Anniversary
 date: 2026-05-20
-draft: true 
+draft:  
 menu: events
 ---
 
@@ -10,6 +10,6 @@ menu: events
 
 **Time:** 6:00 PM
 
-**Where:** [St MAthews Church 4411 Hamilton Richmond Rd 45013)
+**Where:** [St Mathews Church 4411 Hamilton Richmond Rd 45013)
 
 ![Flyer](Darrtown2026.webp)
