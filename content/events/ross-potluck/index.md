@@ -1,15 +1,15 @@
 ---
 title: District Picnic
-date: 2024-06-08
+date: 2026-06-13
 draft: true
 menu: events
 ---
 
-**When:** Sturday, June 08, 2024
+**When:** Sturday, June 13, 2026
 <!--more-->
 
-**Time:** 12:00 PM
+**Time:** 11:00 AM
 
-**Where:** (Joyce Park , Shelter # 22)
+**Where:** (Renchler Forest 5701 Reigart Rd 45011)
 
-![Flyer](/events/ross-potluck/picnic.webp)
+![Flyer](picnic2026.webp)
