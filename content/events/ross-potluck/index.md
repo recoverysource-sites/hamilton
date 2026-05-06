@@ -1,7 +1,7 @@
 ---
 title: District Picnic
 date: 2026-06-13
-draft: true
+draft:
 menu: events
 ---
 
