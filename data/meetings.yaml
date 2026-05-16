@@ -265,7 +265,6 @@ hope-is-found-here:
   longitude: -84.64427162947719
   type: [EN, O]
 
-
 lindenwald:
   name: Lindenwald Big Book
   time:
@@ -408,7 +407,6 @@ utopia-meeting:
   latitude: 39.51117218015065
   longitude: -84.74268547365445
   type: [EN, C]
-
   
   james-group:
   name: James Club
@@ -418,7 +416,6 @@ utopia-meeting:
   address: 626 Ridgelawn Ave, Hamilton, OH 45013
   note: Enter Gray Av side door near front of bldg
   type: [EN, O, SP]
-
 
   Here-Steps:
   name: Here are the Steps
