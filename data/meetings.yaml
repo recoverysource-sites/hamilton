@@ -398,7 +398,7 @@ utopia-meeting:
   note: First Floor
   type: [EN, C, B]
 
-  trinity-Community:
+trinity-Community:
   name: Trinity Community Meeting
   time:
     Friday: ['17:00']
@@ -408,7 +408,7 @@ utopia-meeting:
   longitude: -84.74268547365445
   type: [EN, C]
   
-  james-group:
+james-group:
   name: James Club
   time:
     Tuesday: ['19:00']
@@ -417,7 +417,7 @@ utopia-meeting:
   note: Enter Gray Av side door near front of bldg
   type: [EN, O, SP]
 
-  Here-Steps:
+Here-Steps:
   name: Here are the Steps
   time:
     Wednesday: ['19:30']
