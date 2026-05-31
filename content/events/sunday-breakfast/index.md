@@ -1,7 +1,7 @@
 ---
 title: Darrtown Anniversary
 date: 2026-05-20
-draft:  
+draft: true  
 menu: events
 ---
 
