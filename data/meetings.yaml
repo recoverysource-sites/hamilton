@@ -192,17 +192,6 @@ fairfield-sunday-night:
   longitude: -84.52446597366045
   type: [EN, C, X]
 
-finding-liberty:
-  name: Finding Liberty
-  time:
-    Wednesday: ['19:00']
-  place: Redeemer Church
-  address: 3431 Hamilton Middletown Road, Hamilton, OH, 45011
-  latitude: 39.40883165058905
-  longitude: -84.49887513132973
-  note: Rt 4; In front of Butler Tech
-  type: [EN, O, B]
-
 fort-hamilton:
   name: Fort Hamilton Home Group
   time:
