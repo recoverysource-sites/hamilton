@@ -285,16 +285,6 @@ into-action:
   longitude: -84.73952193797784
   type: [EN, O, X]
 
-miamitown-discussion:
-  name: Miamitown Discussion Group
-  time:
-    Wednesday: ['19:30']
-  place: First Baptist Church
-  address: 5830 St.Rt. 128, Miamitown, OH, 45002
-  latitude: 39.20409942721661
-  longitude: -84.72973365313197
-  type: [EN, C, X]
-
 come-as-you-are:
   name: Noon Come As You Are
   time:
